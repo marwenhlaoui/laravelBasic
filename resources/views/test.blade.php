@@ -1,1 +1,1 @@
-{{ assets('admin/css/demo.css')  }}
+{{ base_path()  }}
